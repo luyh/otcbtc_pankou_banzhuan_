@@ -16,3 +16,6 @@ OTCBTC币币交易盘口搬砖
 ## 开发进度
 - [ ] 功能模块开发
 - [ ] 集成测试demo
+
+## 参考来源
+- [botvs-2014年的简易短线机器人](https://www.botvs.com/strategy/1088)
